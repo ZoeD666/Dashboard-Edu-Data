@@ -19,14 +19,23 @@ The data used in this project is sourced from the xAPI-Edu-Data dataset, which c
 Dataset Details:
 
 Source: Kaggle - xAPI-Edu-Data
+
 Key Features:
+
 gender: Gender of students
+
 GradeID: Grade levels (e.g., G-02, G-08)
+
 StageID: Educational stages (e.g., Lower, Middle School)
+
 Topic: Subject names (e.g., IT, Science)
+
 raisedhands: Frequency of hands raised in class
+
 VisITedResources: Count of visited resources
+
 Discussion: Level of class participation
+
 ParentschoolSatisfaction: Parental satisfaction with the school
 
 
@@ -65,10 +74,14 @@ Explore the interactive dashboards to uncover insights.
 File Structure
 
 ├── README.md
-├── Dashboard-Performance.pdf              # Summary of the performance dashboard
-├── Dashboard-Student.pdf                  # Summary of the student dashboard
-├── Dashboard-Performance Analysis.twb     # Tableau workbook for performance analysis
-├── xAPI-Edu-Data.csv                      # Dataset used for analysis
+
+├── Dashboard-Performance.pdf               # Summary of the performance dashboard
+
+├── Dashboard-Student.pdf                   # Summary of the student dashboard
+
+├── Dashboard-Performance Analysis.twb      # Tableau workbook for performance analysis
+
+├── xAPI-Edu-Data.csv                       # Dataset used for analysis
 
 
 Key Takeaways
